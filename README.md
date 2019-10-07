@@ -1,2 +1,8 @@
 # learnGithub
-I am going to learn Github
+Software Design and Implementation
+
+##Learning Github
+
+## Group H
+
+##David Adama
